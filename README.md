@@ -1,6 +1,6 @@
 # ChemPane-GPT
 
-Unofficial ChatGPT integration for [ChemPane](https://github.com/chempane/chempane), copyright 2026 jurimaxam-dotcom, Apache-2.0.
+ChatGPT integration for [ChemPane](https://github.com/chempane/chempane)
 
 ## Quick connection
 Try the upstream remote MCP endpoint `https://mcp.chempane.com/mcp` in ChatGPT custom app settings, if your account supports custom MCP apps. This endpoint belongs to upstream, not this repository. Do not send confidential molecules until you review its privacy policy. Compatibility is not yet verified.
